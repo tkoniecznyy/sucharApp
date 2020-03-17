@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sucharApp</string>
+    <string name="app_tittle">Suchar</string>
+    <string name="app_content_1">Rozmowa dwóch osób. - Najbardziej w życiu boję się dentysty i ciemności. - Dlaczego ciemności? - Nie wiadomo ilu w niej dentystów...</string>
+    <string name="app_content_2">Co mówi nauczycielka Geografii przy mapie?  Witam państwa.</string>
+    <string name="app_content_3">Ksiądz na lekcji religii pyta dzieci: - Co robimy gdy jest post? Jasio się zgłasza: - Lajkujemy i udostępniamy</string>
+    <string name="app_button">GENERUJ</string>
+</resources>

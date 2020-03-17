@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sucharApp</string>
+    <string name="app_tittle">not funny jokes</string>
+    <string name="app_content_1">Conversation of two people. - I\'m most afraid of the dentist and the dark. - Why the dark? - It is not known how many dentists there ...</string>
+    <string name="app_content_2">" What does the Geography teacher say on the map? Hello, ladies and gentlemen."</string>
+    <string name="app_content_3">A priest during a religion lesson asks children: - What do we do when there is fasting? Jasio reports: - We like and share</string>
+    <string name="app_button">GENERATE</string>
+</resources>
